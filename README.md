@@ -27,6 +27,7 @@ Deployment Link : [https://thinkboard-tj07.onrender.com]
 | Database    | MongoDB                       |
 | Deployment  | Render (Fullstack deployment) |
 
+---
 
 **Made with passion by Bhargavi <3**
 
