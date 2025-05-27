@@ -23,7 +23,6 @@ export async function createNotes(req,res){
         console.error("Error in createNotes", err);
         res.status(500).json({message: "Internal Server Error"});
     }
-    res.status(201).json({message :"note created successfully"});
 }
 
 export async function updateNotes(req,res){
