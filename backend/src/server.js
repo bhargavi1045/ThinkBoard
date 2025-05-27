@@ -30,7 +30,7 @@ app.get("*",(req,res)=>{
 })
 }
 connectDB().then(()=>{
-    app.listen(PORT,()=>{
+    app.listen(PORT,'0.0.0.0',()=>{
       console.log("server started in port",PORT);
     });
 });
