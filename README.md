@@ -28,6 +28,7 @@ Deployment Link : [https://thinkboard-tj07.onrender.com]
 | Deployment  | Render (Fullstack deployment) |
 
 
-Made with passion by Bhargavi <3
+**Made with passion by Bhargavi <3**
+
 Got ideas, fixes, or cool features? Don’t be shy—drop an issue or shoot a pull request :)
 
